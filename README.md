@@ -1,3 +1,4 @@
+# Digital Marketing Campaign Analysis
 This repository contains the analysis of a digital marketing campaign using the dataset from Kaggle: Predict Conversion in Digital Marketing Dataset by Rabie El Kharoua (2024).
 This project aims to analyze a digital marketing campaign and provide stakeholders with relevant KPIs. The analysis includes data preprocessing, exploratory data analysis, and visualization using Tableau.
 
